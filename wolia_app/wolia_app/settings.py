@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'wolia_app.core',
+    'wolia_app.gerencia',
 ]
 
 MIDDLEWARE = [
